@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = ({ heading, paragraph, imgUrl, projectLink, repoLink }) => {
+const Card = ({ heading, paragraph, imgUrl, projectLink, repoLink, tech }) => {
   return (
     <div
       className="card"
@@ -30,6 +30,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, repoLink }) => {
         >
           Repo
         </a>
+        <p className="text">Tech: {tech}</p>
       </div>
     </div>
   )

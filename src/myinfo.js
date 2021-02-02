@@ -57,7 +57,7 @@ export default {
         Cartly,
       url: "https://cart-client.vercel.app/",
       github: "https://github.com/JaredAngel/cartly-client",
-      tech: ["React","HTML","CSS","JavaScript","NodeJS","Express","Mocha","Chai","AJAX","Heroku","Vercel"]
+      tech: ["React, HTML, CSS, JavaScript, NodeJS, Express, Mocha, Chai, AJAX, Heroku, Vercel"]
     },
     {
       id: 2, 
@@ -67,7 +67,7 @@ export default {
       imageSrc: Spanish,
       url: "https://spaced-repetition-client-delta.vercel.app/",
       github: "https://github.com/JaredAngel/spaced-repetition-client",
-      tech: ["HTML","CSS","JavaScript","NodeJS","React","Express","Mocha","Chai","AJAX","Heroku","Vercel","Cypress","Algorithms","Data Structures"]
+      tech: ["HTML, CSS, JavaScript, NodeJS, React, Express, Mocha, Chai, AJAX, Heroku, Vercel, Cypress, Algorithms, Data Structures"]
     },
     {
       id: 3,
@@ -77,7 +77,7 @@ export default {
       imageSrc: Voyager,
       url: "https://voyager-iota.vercel.app/",
       github: "https://github.com/JaredAngel/voyager-app",
-      tech: ["HTML","CSS","JavaScript","NodeJS","React","Express","Mocha","Chai","AJAX","Heroku","Vercel"]
+      tech: ["HTML, CSS, JavaScript, NodeJS, React, Express, Mocha, Chai, AJAX, Heroku, Vercel"]
     },
     {
       id: 4, 
@@ -88,7 +88,7 @@ export default {
         Petful,
       url: "https://petful-client-cyan-six.vercel.app/",
       github: "https://github.com/JaredAngel/petful-client",
-      tech: ["HTML","CSS","JavaScript","NodeJS","React","Express","Mocha","Vercel","Algorithms","Data Structures"]
+      tech: ["HTML, CSS, JavaScript, NodeJS, React, Express, Mocha, Vercel, Algorithms, Data Structures"]
     },
 
     /*
@@ -109,12 +109,14 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Hello and thank you for visting my portfolio! My name is Jared Angel. I am a Fullstack Software Developer from Austin, Texas and a graduate of the Fullstack Web Development Program at Thinkful.",
+    "Hello and thank you for visiting my portfolio! My name is Jared Angel. I am a Fullstack Software Developer from Austin, Texas, and a graduate of the Fullstack Web Development Program at Thinkful.",
   aboutParaTwo:
-    "I am interested in knowing the 'why' behind logical decision making. I am not afraid to admit mistakes or don't know something, instead I welcome it and view it as an opportunity to learn and grow.",
+    "I am interested in knowing the 'why' behind logical decision making and not afraid to admit mistakes or don't know something. Instead, I welcome it and view it as an opportunity to learn and grow.",
   aboutParaThree:
-    "I am transitioning from the lead generation and analytics industry, where I was a Marketing Data Analyst for Modernize Home Improvement (Austin, TX). These industries and past roles promote and require constant learning and innovation. I strive to maintain the same caliber of commitment and dedication as I continue my journey as a Software Developer.",
-  aboutImage: ProfilePic,
+    "I am transitioning from the lead generation and analytics industry, where I was a Marketing Data Analyst for Modernize Home Improvement (Austin, TX). These industries and past roles promote and require constant learning, a desire to work in collaborative team environments, and innovation. I strive to maintain the same caliber of commitment and dedication as I continue my journey as a Software Developer.",
+  aboutParaFour:
+    "Life also happens outside a screen! Outside of work, I enjoy rock climbing, hiking, playing video games, and riding motorcycles across the country.",
+    aboutImage: ProfilePic,
   
   //   End About Section ---------------------
 
