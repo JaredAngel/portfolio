@@ -1,2 +1,2 @@
 # Thanks for checking out my Portfolio!
-You can find the live site here [https://jaredangel.github.io/portfolio/](https://jaredangel.github.io/portfolio/)
+You can find the live site here [Jared Angel Portfolio](https://portfolio-kohl-theta-56.vercel.app/)
