@@ -11,7 +11,7 @@ const Header = () => {
             <h2>
               Hello, I'm {data.name}{" "}
               <span role="img" aria-label="Emoji">
-                👋
+                🤙🏾
               </span>
             </h2>
           </Fade>
